@@ -1,0 +1,2 @@
+helloConsumer=com.example.dubboprovider.filter.HelloConsumerFilter
+helloConsumer2=com.example.dubboprovider.filter.HelloConsumerFilter2
