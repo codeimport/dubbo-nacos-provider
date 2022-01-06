@@ -26,7 +26,7 @@ public class HelloDubboServiceImpl implements HelloDubboService {
 
     @Override
     public String hello() {
-        throw new RpcException(">>>>>RpcException");
+        return "hello";
     }
 
     @Override
